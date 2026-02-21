@@ -1,0 +1,4 @@
+[submodule "moltworker"]
+	path = moltworker
+	url = https://github.com/tktcorporation/moltworker.git
+	branch = feat/openrouter-support
